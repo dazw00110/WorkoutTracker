@@ -1,0 +1,34 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build
+bin/
+obj/
+
+# Rider (JetBrains)
+.idea/
+*.DotSettings
+*.DotSettings.user
+
+# NuGet
+*.nupkg
+packages/
+project.lock.json
+project.assets.json
+
+# VS Code
+.vscode/
+
+# Logs i temp
+*.log
+*.tmp
+*.bak
+*~
+
+# System
+Thumbs.db
+.DS_Store
