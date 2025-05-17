@@ -32,3 +32,8 @@ project.assets.json
 # System
 Thumbs.db
 .DS_Store
+
+
+# Rider
+.idea/
+appsettings.json
